@@ -47,7 +47,6 @@
 ![426bb213-7e87-49fd-8e27-96dcd8482570](https://github.com/user-attachments/assets/fdcbf9f9-b37c-4f2c-a75b-5f2d15a310a5)
 ![e547ba4e-203b-431c-b6ac-a8f042eecfe1](https://github.com/user-attachments/assets/34852814-ae32-43f0-9cbd-3ebe52a89027)
 
-## Output:
 
 ### Name:VARUN JC
 ### Register Number:24001611
