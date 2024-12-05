@@ -34,21 +34,23 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![52404c52-7de1-49ef-b3fe-1dd39e408a41](https://github.com/user-attachments/assets/78ec99f9-e43d-449f-826b-fab707970748)
+![9115ed12-89b8-4dda-ad58-f790474025d1](https://github.com/user-attachments/assets/ad5d9052-4c38-47d5-b829-3f517f4b6f53)
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![06de6e42-e08a-4839-b326-6a3394a590cc](https://github.com/user-attachments/assets/715d748d-0fac-4277-ac7b-30d35351a72c)
+![3124eccc-f7b9-410b-8211-79656c44a120](https://github.com/user-attachments/assets/41581542-9536-4aa0-841e-6aee3c0eba85)
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![426bb213-7e87-49fd-8e27-96dcd8482570](https://github.com/user-attachments/assets/fdcbf9f9-b37c-4f2c-a75b-5f2d15a310a5)
+![e547ba4e-203b-431c-b6ac-a8f042eecfe1](https://github.com/user-attachments/assets/34852814-ae32-43f0-9cbd-3ebe52a89027)
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:VARUN JC
+### Register Number:24001611
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
